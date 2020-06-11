@@ -1,0 +1,31 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+html{
+    min-height: 100%;
+}
+body{
+    /*background-image: url("./imagenesFondo/espacio.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+textarea{
+    display:inline-block;
+    padding-right: 100px;
+}
+form input[type="submit"]{
+    display:inline-block;
+}
+h1{
+    font-family: Verdana;
+    color: #F416FF;
+    font-style: italic
+}
+/*#msj, span, label{
+    color: white;
+}*/
+#user{
+    float: right;
+}
